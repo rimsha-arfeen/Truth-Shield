@@ -1,4 +1,6 @@
 🔍** Truth Shield - Spam & Misinformation Detector**
+
+
 Project Overview
 Truth Shield is a spam and misinformation detection system that helps users identify spam messages, fact-check statements, and verify sources such as email and phone numbers. The system is built using Python, NLP (Natural Language Processing), Machine Learning, and Web Scraping techniques to ensure reliable detection of fraudulent or misleading content.
 
